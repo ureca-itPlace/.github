@@ -2,7 +2,7 @@
 
 > “사람과 혜택을 잇는 장소” – 통신사 멤버십 제휴처 혜택을 쉽고 스마트하게 탐색하는 지도 기반 플랫폼
 
-![It Place 타이틀 화면](./demo/Readme-title.png)
+![It Place 타이틀 화면](./../demo/Readme-title.png)
 
 </br>
 
@@ -106,11 +106,11 @@
 
 | 기능                 | 미리보기               |
 | -------------------- | ---------------------- |
-| 지도기반 제휴처 탐색 | ![](./demo/map.gif)    |
-| 혜택상세             | ![](./demo/detail.gif) |
-| 마이페이지           | ![](./demo/mypage.gif) |
-| 관리자 대시보드      | ![](./demo/admin.gif)  |
-| 모바일 전용 레이아웃 | ![](./demo/mobile.gif) |
+| 지도기반 제휴처 탐색 | ![](./../demo/map.gif)    |
+| 혜택상세             | ![](./../demo/detail.gif) |
+| 마이페이지           | ![](./../demo/mypage.gif) |
+| 관리자 대시보드      | ![](./../demo/admin.gif)  |
+| 모바일 전용 레이아웃 | ![](./../demo/mobile.gif) |
 
 </br>
 
