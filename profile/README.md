@@ -80,11 +80,11 @@
 - 혜택 사용 이력 및 누적 혜택 금액 조회 가능
 - 제휴처 홈페이지 리다이렉트 기능 제공
 
-### 4️⃣ 즐겨찾기 & 추천 시스템
+### 4️⃣ AI 추천 & 질문 서비스
 
-- 비회원: 위치 기반 자동 추천
-- 회원: 즐겨찾기, 검색 이력 등을 반영한 개인 맞춤 추천
-- 음식, 쇼핑, 문화 등 카테고리별 혜택 추천 제공
+- 멤버십 혜택 이력 & 사용자 행동 로그를 반영한 개인 맞춤 추천
+- 사용자 질문 의도에 맞는 AI 제휴처 정보 제공
+- 로그를 활용한 추천 콜드 스타트 완화
 
 ### 5️⃣ 관리자 대시보드 & 통계 관리
 
@@ -160,7 +160,7 @@
 | 👨‍💻 박용규 | 프론트엔드 / 디자인 설계        | [![GitHub](https://img.shields.io/badge/yonggyu99-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yonggyu99)          |
 | 👨‍💻 백세진 | 프론트엔드 / 디자인 설계        | [![GitHub](https://img.shields.io/badge/sejinbaek-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sejinbaek)          |
 | 👨‍💻 염승아 | 프론트엔드 / 디자인 설계        | [![GitHub](https://img.shields.io/badge/yeom--kenco-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yeom-kenco)       |
-| 👨‍💻 이희용 | 백엔드 / DB 설계                | [![GitHub](https://img.shields.io/badge/eddie--backdev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/eddie-backdev) |
+| 👨‍💻 이희용 | 백엔드 / 인증&인가, 인프라                 | [![GitHub](https://img.shields.io/badge/eddie--backdev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/eddie-backdev) |
 | 👩‍💻 정현경 | 백엔드 / DB 설계                | [![GitHub](https://img.shields.io/badge/hyunnk-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hyunnk)                |
 | 👩‍💻 하령경 | 백엔드 / DB 설계                | [![GitHub](https://img.shields.io/badge/rxgx424-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rxgx424)              |
-| 👨‍💻 허승현 | 백엔드 / DB 설계                | [![GitHub](https://img.shields.io/badge/HSH--11-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HSH-11)               |
+| 👨‍💻 허승현 | 백엔드 / AI 추천 & 질문 서비스   | [![GitHub](https://img.shields.io/badge/HSH--11-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HSH-11)               |
