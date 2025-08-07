@@ -98,6 +98,12 @@
 - 제휴처 정보 조회 및 수정 기능
 - 회원 정보 조회 기능 지원
 
+### 5️⃣ 이벤트 페이지 & 프로모션 기능
+
+- 지도 내 이벤트 지점을 통한 혜택 사용 유도
+- 스크래치 카드 기반 이벤트 기능 제공
+- 로그인 여부 및 보유 쿠폰 수에 따라 긁기 제한 제어
+
 </br>
 
 ## 🎥데모 & 미리보기
@@ -106,10 +112,12 @@
 
 | 기능                 | 미리보기               |
 | -------------------- | ---------------------- |
+| 랜딩페이지 | ![](./../demo/landing.gif)    |
 | 지도기반 제휴처 탐색 | ![](./../demo/map.gif)    |
 | 혜택상세             | ![](./../demo/detail.gif) |
 | 마이페이지           | ![](./../demo/mypage.gif) |
 | 관리자 대시보드      | ![](./../demo/admin.gif)  |
+| 이벤트 | ![](./../demo/event.gif)    |
 | 모바일 전용 레이아웃 | ![](./../demo/mobile.gif) |
 
 </br>
@@ -129,6 +137,7 @@
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" />
   <img src="https://img.shields.io/badge/Kakao%20Map-FFCD00?style=flat&logo=kakaotalk&logoColor=black" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lodash-3492FF?style=flat&logo=lodash&logoColor=white" />
 </p>
 
 #### 🔧 백엔드
