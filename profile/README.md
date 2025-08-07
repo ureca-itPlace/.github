@@ -143,15 +143,33 @@
 #### 🔧 백엔드
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Data-6DB33F?style=flat&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20AI-66CC66?style=flat&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/OAuth-000000?style=flat&logo=oauth&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" />
+<img src="https://img.shields.io/badge/Kibana-E8478B?style=flat&logo=kibana&logoColor=white" />
+</p>
 
+#### ⚙️ 인프라
+<p align="left">
+<img src="https://img.shields.io/badge/Route53-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/CloudFront-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Elastic%20Load%20Balancing-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeDeploy-6DB33F?style=flat&logo=aws-code-deploy&logoColor=white" />
+<img src="https://img.shields.io/badge/Elastic%20Container%20Registry-FF9900?style=flat&logo=amazon-ecs&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white" />
+<img src="https://img.shields.io/badge/App%20Auto%20Scaling-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white" />
+<img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white" />
 </p>
 
 #### 💬 커뮤니케이션 & 협업
