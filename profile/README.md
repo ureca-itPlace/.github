@@ -162,11 +162,11 @@
 
 | 이름      | 담당 역할                       | GitHub                                                                                                                                          |
 | --------- | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 👨‍💻 최영준 | 팀장 / 프론트엔드 / 디자인 설계 | [![GitHub](https://img.shields.io/badge/udwns310-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/udwns310)            |
-| 👨‍💻 박용규 | 프론트엔드 / 디자인 설계        | [![GitHub](https://img.shields.io/badge/yonggyu99-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yonggyu99)          |
-| 👨‍💻 백세진 | 프론트엔드 / 디자인 설계        | [![GitHub](https://img.shields.io/badge/sejinbaek-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sejinbaek)          |
-| 👨‍💻 염승아 | 프론트엔드 / 디자인 설계        | [![GitHub](https://img.shields.io/badge/yeom--kenco-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yeom-kenco)       |
-| 👨‍💻 이희용 | 백엔드 / 인증&인가, 인프라                 | [![GitHub](https://img.shields.io/badge/eddie--backdev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/eddie-backdev) |
-| 👩‍💻 정현경 | 백엔드 / DB 설계                | [![GitHub](https://img.shields.io/badge/hyunnk-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hyunnk)                |
-| 👩‍💻 하령경 | 백엔드 / DB 설계                | [![GitHub](https://img.shields.io/badge/rxgx424-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rxgx424)              |
-| 👨‍💻 허승현 | 백엔드 / AI 추천 & 질문 서비스   | [![GitHub](https://img.shields.io/badge/HSH--11-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HSH-11)               |
+| 👨‍💻 최영준(프론트) | 디자인 설계, 전체 혜택 페이지, 관리자 페이지 | [![GitHub](https://img.shields.io/badge/udwns310-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/udwns310)            |
+| 👨‍💻 박용규(프론트) | 디자인 설계, 로그인 페이지, 메인 페이지 | [![GitHub](https://img.shields.io/badge/yonggyu99-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yonggyu99)          |
+| 👨‍💻 백세진(프론트) | 디자인 설계, 랜딩 페이지, 이벤트 컴포넌트 | [![GitHub](https://img.shields.io/badge/sejinbaek-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sejinbaek)          |
+| 👨‍💻 염승아(프론트) | 디자인 설계, 마이 페이지, 이벤트 페이지 | [![GitHub](https://img.shields.io/badge/yeom--kenco-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yeom-kenco)       |
+| 👨‍💻 이희용(백엔드) | 인증&인가, 인프라, 지도 구축 | [![GitHub](https://img.shields.io/badge/eddie--backdev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/eddie-backdev) |
+| 👩‍💻 정현경(백엔드) | 제휴처 시스템, 이벤트 기능, 관리자 페이지 | [![GitHub](https://img.shields.io/badge/hyunnk-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hyunnk)                |
+| 👩‍💻 하령경(백엔드) | 로그 저장, 관리자 대시보드, 지도 서비스 | [![GitHub](https://img.shields.io/badge/rxgx424-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rxgx424)              |
+| 👨‍💻 허승현(백엔드) | AI 추천 시스템, 즐겨찾기, 벡터DB 관리 | [![GitHub](https://img.shields.io/badge/HSH--11-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HSH-11)               |
